@@ -1,2 +1,2 @@
 #!/bin/bash
-cd _un *html ../
+cd _un *.html ...html ../
